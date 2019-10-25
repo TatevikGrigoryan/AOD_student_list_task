@@ -1,0 +1,12 @@
+table {
+    border: 1px solid black;
+}
+.edit{
+    margin:5px;
+}
+.save{
+    background-color: white;
+    color:red;
+    margin: 5px;
+}
+

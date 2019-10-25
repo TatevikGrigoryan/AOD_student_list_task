@@ -1,0 +1,14 @@
+input,select{
+    margin: 0 15px;
+
+}
+label{
+    display: flex;
+    padding: 0 10px 10px;
+}
+.add{
+    display: flex;
+    margin:  auto ;
+}
+
+
